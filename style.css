@@ -238,6 +238,10 @@ th {
     font-weight: bold;
 }
 
+.itens:before {
+    content: "✭"
+}
+
 .imagem-beneficios {
     width: 60%;
     opacity: 1;
